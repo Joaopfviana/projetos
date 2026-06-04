@@ -15,8 +15,6 @@ body {
 
 .container {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
   margin: 0 15%;
 }
 
@@ -50,8 +48,6 @@ body {
 }
 
 .img__joao {
-  width: 488px;
-  height: 550px;
   margin: 0 20px;
 }
 
